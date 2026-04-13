@@ -47,11 +47,11 @@
 ## 8) Diagrama
 - *Juan98* > *Like a Luisa_00* > *El contenido de Luisa se añade a la memoria de recomendacion de Juan98* > *El sistema le empezara a recomendar contenido de mujeres, del año 2000, y españolas* > *Le recomienda fotos de ella en la playa ya que es lo que mas a mirado* > *Los post y las historias de Luisa le van a salir muy arriba en los recomendos* > *Le empieza a recomendar mas contenido parecido al que esta consumiendo*
 ## 9) Problemas
-Problema 1: Datos falsos (bots).
-Solución 1: Sistemas de detección automática.
-Problema 2: Sesgo en recomendaciones.
-Solución 2: Introducir contenido variado.
+- Problema 1: Datos falsos (bots).
+- Solución 1: Sistemas de detección automática.
+- Problema 2: Sesgo en recomendaciones.
+- Solución 2: Introducir contenido variado.
 
 ## 10) Fuente
 - Esta web es oficial pero es de 2023 [Instagram Recomendacion](https://creators.instagram.com/blog/instagram-recommendations-eligibility-tips-creators?locale=es_ES)
-- Esta lo explica de otra manera de terceros pero creo que tiene mas vericidad actualmente[Instagram Recomendacion No Oficial](https://nubecolectiva.com/blog/como-funciona-el-sistema-de-recomendaciones-de-instagram/)
+- Esta lo explica de otra manera de terceros pero creo que tiene mas vericidad actualmente [Instagram Recomendacion No Oficial](https://nubecolectiva.com/blog/como-funciona-el-sistema-de-recomendaciones-de-instagram/)
